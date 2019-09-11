@@ -1,0 +1,23 @@
+{
+  "name": "HW-11",
+  "version": "1.0.0",
+  "description": "This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents two interfaces: customer and manager.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtcarey23/HW-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtcarey23/HW-11/issues"
+  },
+  "homepage": "https://github.com/mtcarey23/HW-11#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
